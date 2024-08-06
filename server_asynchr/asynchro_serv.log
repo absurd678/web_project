@@ -1,0 +1,17 @@
+
+2023-04-03 14:52:32,533 - App - INFO - Server started in 03-04-2023 14:52:32
+2023-04-03 14:56:14,847 - App - INFO - 03-04-2023 14:56:14: Connected to ('127.0.0.1', 56766)
+2023-04-03 14:56:17,941 - App - INFO - 03-04-2023 14:56:17: Message from client: b'Kozhevnikov Artem M3O-109B-22'
+2023-04-03 14:56:17,941 - App - INFO - 03-04-2023 14:56:17: Message to client: b'22-B901-O3M metrA vokinvehzoK' | Server was written by A.V.Kozhevnikov M3O-109B-22
+2023-04-03 14:56:20,956 - App - INFO - 03-04-2023 14:56:20: Client has disconnected
+2023-04-03 14:57:10,237 - App - INFO - 03-04-2023 14:57:10: Connected to ('127.0.0.1', 56771)
+2023-04-03 14:57:13,237 - App - INFO - 03-04-2023 14:57:13: Message from client: b'Kozhevnikov Artem M3O-109B-22'
+2023-04-03 14:57:13,237 - App - INFO - 03-04-2023 14:57:13: Message to client: b'22-B901-O3M metrA vokinvehzoK' | Server was written by A.V.Kozhevnikov M3O-109B-22
+2023-04-03 14:57:16,238 - App - INFO - 03-04-2023 14:57:16: Client has disconnected
+2023-04-03 16:45:28,153 - App - INFO - Server started in 03-04-2023 16:45:28
+2023-04-03 16:45:55,995 - App - INFO - 03-04-2023 16:45:55: Connected to ('127.0.0.1', 57687)
+2023-04-03 16:45:59,030 - App - INFO - 03-04-2023 16:45:59: Message from client: b'Kozhevnikov Artem M3O-109B-22'
+2023-04-03 16:45:59,030 - App - INFO - 03-04-2023 16:45:59: Message to client: b'22-B901-O3M metrA vokinvehzoK' | Server was written by A.V.Kozhevnikov M3O-109B-22
+2023-04-03 16:46:02,038 - App - INFO - 03-04-2023 16:46:02: Client has disconnected
+2023-04-03 16:52:05,458 - App - INFO - Server started in 03-04-2023 16:52:05
+2023-04-03 16:53:11,243 - App - INFO - Server started in 03-04-2023 16:53:11

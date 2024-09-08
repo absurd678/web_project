@@ -3,7 +3,7 @@
 #include <winsock2.h>
 #include <fstream>
 #include <string>
-#include <chrono> // ? Что это
+#include <chrono> 
 
 #pragma warning(disable: 4996) //убирает предупреждение от vs
 using namespace std;
